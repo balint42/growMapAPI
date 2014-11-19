@@ -6,7 +6,8 @@ that resembles some of the JSON API of the `growstuff.org` site. It gets data fr
 stores it and provides it via its own JSON API. Its own API provides an exact subset of the `growstuff.org`
 API - meaning that the JSON responses contain the same data in the same format, but not all of it.
 
-The main purpose of this API is to be used together with the `growMapJS` frontend!
+The main purpose of this API is to be used together with the [growMapJS](https://github.com/balint42/growMapJS)
+frontend! See both together in action [here](http://morvai.de/growmap/).
 
 Installation
 ------------
